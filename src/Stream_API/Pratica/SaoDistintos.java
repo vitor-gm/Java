@@ -1,4 +1,4 @@
-package Stream_API.Training;
+package Stream_API.Pratica;
 
 import java.util.Arrays;
 import java.util.List;
